@@ -57,6 +57,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="128dp"
         android:layout_marginRight="128dp"
+        android:onClick="sendMessage"
         android:text="Search"
         app:layout_constraintEnd_toEndOf="@+id/editText"
         app:layout_constraintLeft_toRightOf="@+id/editText"
